@@ -46,3 +46,8 @@ kalilite
 ```bash
 khanh --start
 ```
+
+# PASSWORD VNC:
+```
+khanhnguyen
+```
