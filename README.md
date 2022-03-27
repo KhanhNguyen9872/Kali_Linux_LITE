@@ -35,9 +35,14 @@ pkg update -y; pkg upgrade -y; pkg install wget -y; wget -O install.sh https://r
 ```
 
 4. Wait for download and install!
- 
-5. After install, you can use this command to start!
+
+# How to start?
+- You can use this command to start!
 
 ```bash
 kalilite
+```
+- Use this command to start VNC after run [kalilite]!
+```bash
+khanh --start
 ```
