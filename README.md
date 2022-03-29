@@ -51,3 +51,11 @@ khanh --start
 ```
 khanhnguyen
 ```
+
+# User/Password PHPMyAdmin:
+```
+root
+```
+```
+khanhnguyen
+```
